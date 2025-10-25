@@ -18,4 +18,4 @@ int main(int argc, char *argv[]) {
 }
 ```
 
-![Изображение](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259B%25D0%25BE%25D0%25B3%25D0%25BE%25D1%2582%25D0%25B8%25D0%25BF_Google&psig=AOvVaw0gPDgn2QB6rkxXvkP_WJHE&ust=1761464692255000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIDWnLztvpADFQAAAAAdAAAAABAE)
+![Изображение](https://habrastorage.org/files/b82/7e0/5dc/b827e05dc797487ba96762ea4cc7074a.png)
